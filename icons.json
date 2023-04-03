@@ -1,0 +1,27 @@
+[
+    {
+        "path": "./img/search.png",
+        "alt": "icon",
+        "text": "Lorem ipsum dolor sit amet"
+    },
+    {
+        "path": "./img/discount.png",
+        "alt": "icon",
+        "text": "Сonsecteturadipiscing elit"
+    },
+    {
+        "path": "./img/order.png",
+        "alt": "icon",
+        "text": "Sed do eiusmod tempor"
+    },
+    {
+        "path": "./img/letter.png",
+        "alt": "icon",
+        "text": "Esse cillum dolore eu fugiat"
+    },
+    {
+        "path": "./img/pay.png",
+        "alt": "icon",
+        "text": "Excepteur sint occaecat cupidatat non proident"
+    }
+]
