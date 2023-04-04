@@ -5,7 +5,7 @@ git-hub pages https://ansem-11.github.io/adaptive-lp
 # Install instruction
 
 * git clone https://github.com/anSem-11/adaptive-lp.git
-* cd fouro-gallery
+* cd adaptive-lp
 * npm install -g http-server (if didn't installed earlier)
 * http-server
 * open at http://localhost:8080/ or with your local port
